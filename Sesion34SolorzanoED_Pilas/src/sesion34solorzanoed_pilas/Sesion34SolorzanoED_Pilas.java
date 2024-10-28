@@ -20,6 +20,7 @@ public class Sesion34SolorzanoED_Pilas {
         
         JOptionPane.showMessageDialog(null, "Datos en pila ordenada es :\n" + pilaSolorzano);
         
+        JOptionPane.showMessageDialog(null, "Autor: solorzano");
     }
     
 }
